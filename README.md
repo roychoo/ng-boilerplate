@@ -1,6 +1,7 @@
 # [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) [![Build Status](https://travis-ci.org/joshdmiller/ng-boilerplate.png?branch=master)](https://travis-ci.org/joshdmiller/ng-boilerplate)
 
 An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
+https://www.codeship.io/projects/76949360-3f7d-0131-039c-0abda17912f7/status
 
 ***
 
